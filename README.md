@@ -23,7 +23,7 @@ Python3 · Flask · Django
 MySQL · PostgreSQL · SQLite
 
 ### Cloud
-AWS · Digital Ocean
+AWS · Digital Ocean · Azure
 
 ### Design & Product
 UI Design · Prototyping
